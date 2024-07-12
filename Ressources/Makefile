@@ -49,4 +49,4 @@ SVGwriter.o: SVGwriter.c
 
 
 clean:
-	rm -f *.o *.txt *~ $(PROGRAMS) *.html
+	rm -f *.o *~ $(PROGRAMS)
